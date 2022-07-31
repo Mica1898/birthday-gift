@@ -1,4 +1,6 @@
-# cod82428684b1ae77860c2d5d
+# Happy-Birthday-Tiffany
+
+A project through the Scrimba bootcamp made for a friend's birthday. 
 
 ## About Scrimba
 
